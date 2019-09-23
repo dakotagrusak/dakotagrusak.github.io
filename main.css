@@ -1,0 +1,25 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
+
+
+body {
+    font-family: 'Roboto';
+    position: relative;
+    font: 1em/1.6 sans-serif;    
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: 'Roboto';
+    position: relative;
+    font: 1em/1.6 sans-serif;   
+}
+
+td, th {
+    text-align: left;
+    vertical-align: top;
+    padding: 8px;
+    width: 50%;
+}
